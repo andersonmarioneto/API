@@ -1,3 +1,4 @@
 TER O NODE INSTALADO NA MÁQUINA
 abrir o terminal na pasta do projeto e rodar "npm install"
 ainda no terminal, executar: node app.js
+Anderson Mário Neto - 20220495
